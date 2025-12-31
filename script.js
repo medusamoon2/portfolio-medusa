@@ -1,6 +1,6 @@
 // 1. Efeito de Digitação (Typewriter Effect)
 const textElement = document.getElementById('typing-text');
-const phrases = ["Caos em Ordem.", "Confuso em Simples.", "Básico em Incrível."];
+const phrases = ["Caos em Ordem.", "Dados em Clareza.", "Ideias em Soluções."];
 let phraseIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
